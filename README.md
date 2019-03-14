@@ -1,38 +1,8 @@
-
-# this project will be stopped for some time to come.
-
-```
-                                          _     _
-                                        o' \.=./ `o
-                                           (o o)          
-                                       ooO--(_)--Ooo
-                                       
-                                          O S I F
-                            [open source information facebook]
-```
-OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
-
-
-
-# [ Installation ]
-```
-$ pkg update upgrade
-$ pkg install git python2
-
-$ cd BX-token
-```
-
-# [ Setup ]
-```
-$ pip2 install -r requirements.txt
-```
-# [ Running ]
-```
-$ python2 BX-token.py
-```
-# [ Screenshot ]
-<img src=".images/osif.png "/>
-
-* if you are confused how to use it, please type 'help' to display the help menu
-* [Warn] please turn off your VPN before using this program !!!
-* [Tips] do not overuse this program !!!
+# IP-Locator was made by bilel gorine
+ retrieve informations about an ip adress or a hostname 
+ This tool is scripted in perl as you can tell    -_-         
+ you can help us by subscribing to our youtube channel :. www.youtube.com/channel/UCWYokhgdi17b02dg1ih_ugg?view_as .:
+ before opening the tool use this command  chmod +x ip-locator.pl 
+its nothing special it just provides information from this website 
+http://ip-api.com/ check it out
+th4nks for using our tool
